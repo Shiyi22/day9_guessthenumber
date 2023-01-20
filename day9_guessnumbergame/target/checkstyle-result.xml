@@ -8,4 +8,6 @@
 <error line="27" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
 <error line="35" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
 </file>
+<file name="C:\Users\yeosh\src\day9\day9_guessnumbergame\src\test\java\sg\edu\nus\iss\AppTest.java">
+</file>
 </checkstyle>
