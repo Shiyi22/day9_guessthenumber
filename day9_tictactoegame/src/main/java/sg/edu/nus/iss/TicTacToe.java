@@ -59,7 +59,6 @@ public class TicTacToe {
                         winner = "draw"; 
                     }
                 }
-                 
             }
         }
         return winner;
